@@ -1,0 +1,62 @@
+Java
+-----
+
+Why JAVA
+--------
+Java works with diff platforms (Operating Systems)
+Easy to learn and simple to use
+Open source
+Secured, fast and powerful
+
+Huge Community Support
+Top 3 popular prog lang
+OOPS - Object Oriented Programming
+
+Where Java
+----------
+Mobile Applns (Andriod - Kotlin)
+Desktop Applns
+Web Applns
+WebServers
+Games
+DB Connection
+
+Variables
+--------
+
+Variables are containers for storing data values
+
+Datatypes
+----------
+Primitive data type
+Non-Primitive data type
+
+Primitive data type - 8 types
+
+byte - 8bits - 2^8 = 256 (-128 to 127)
+short -2 bytes - 2^16 = 65536 (-32768 to 32767)
+int - 4 bytes - 2^32 = 4294967296 (
+long - 8 bytes - 2^64
+
+float - 4 bytes
+double - 8 bytes
+
+char - 2 bytes
+boolean - 1 bit
+
+
+
+JRE - Java Runtime Envi
+JDK - Java Dev Kit
+JVM - Java Virtual Machine
+
+
+Operators - Operations on variables/values
+
+Arthimetic Operators- Basic mathematical operations
++ addition
+- sub
+* mul
+/ div
+% mod (remainder)
+
