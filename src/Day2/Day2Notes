@@ -1,0 +1,22 @@
+Typecasting - Converting from one datatype to another datatype
+
+Widening Casting -> Smaller datatype to the larger datatypes
+(automatically)
+Narrowing Casting -> Larger datatype to smaller datatype (manually)
+
+
+Conditional Statements
+
+1) if family
+2) Switch stmts
+
+1) Find smaller/greater for 3 number (a,b,c)
+2) odd/even
+3) voting eligibility check
+
+
+Loops
+
+For Loop
+While loop
+Do-While loop
