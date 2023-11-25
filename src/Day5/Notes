@@ -1,0 +1,33 @@
+Methods
+-------
+Reusable code
+Block of code which runs only when its called
+Pass the data
+Return the result
+
+Accessmodifier Nonaccessmodifier returntype's datatype methodname (Datatype parameters){
+
+return value
+}
+
+
+Student
+-------
+Name - attributes
+Mobile
+email
+
+Study - methods
+Write
+Play
+
+Static - memory Management
+load the things as soon as main method is initiated
+
+4 areas
+variable
+method
+block
+nested class (not needed)
+
+
