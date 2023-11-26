@@ -1,0 +1,30 @@
+Polymorphism - Poly -many
+morph- forms
+Same object/method gonna act differently in different situation
+
+Overloading - Compile Time Polymorphism
+
+Class
+
+sum(int a, int b) - addition of int
+sum(float a, float b)
+readability
+
+Overriding - Run Time Polymorphism
+
+marriageproposal
+
+person -abc (2 months)
+property -house
+
+person -xyz
+
+-----------------------
+
+mobile
+
+call
+sms
+
+samsung - andriod
+apple - ios
