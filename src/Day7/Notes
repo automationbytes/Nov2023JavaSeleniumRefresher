@@ -1,0 +1,19 @@
+Collections
+----------
+
+Limitations of Array
+--------------------
+
+Arrays are fixed in size. We cant change the values in runtime
+We dont have any inbuild ready made methods to search, sort, add, remove etc
+
+
+Collections
+-----------
+Manipulating the data (Store and Manage the data)
+
+Store as Objects
+Homo and Hetro (Same and Diff datatypes)
+Growable in nature
+Ready made methods
+
